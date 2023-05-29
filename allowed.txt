@@ -5,3 +5,4 @@
 @@||r3.o.lencr.org^$important
 @@||*.apple.com^$important
 @@||*.icloud.com^$important
+@@||*.google.com^$impotrant
