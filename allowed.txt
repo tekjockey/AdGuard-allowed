@@ -6,3 +6,5 @@
 @@||r3.o.lencr.org^$important
 @@||*.apple.com^$important
 @@||*.icloud.com^$important
+@@||api.statsig.com^$important
+@@||cdn.cookielaw.org^$important
