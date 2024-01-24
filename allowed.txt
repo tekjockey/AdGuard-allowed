@@ -7,4 +7,3 @@
 @@||*.apple.com^$important
 @@||*.icloud.com^$important
 @@||api.statsig.com^$important
-@@||cdn.cookielaw.org^$important
