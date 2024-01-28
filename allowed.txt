@@ -2,7 +2,6 @@
 @@||googleadservices.com^$important
 @@||fls-na.amazon.com^$important
 @@||engage.vzw.com^$important
-@@||doppler.hulu.com^$important
 @@||r3.o.lencr.org^$important
 @@||*.apple.com^$important
 @@||*.icloud.com^$important
