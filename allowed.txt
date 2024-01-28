@@ -7,3 +7,4 @@
 @@||*.icloud.com^$important
 @@||api.statsig.com^$important
 @@||www.googletagmanager.com^$important
+@@||www.google-analytics.com^$important
