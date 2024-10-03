@@ -8,3 +8,5 @@
 @@||api.statsig.com^$important
 @@||www.googletagmanager.com^$important
 @@||www.google-analytics.com^$important
+@@||piwik.vates.fr^$important
+@@||api.telegram.org^$important
