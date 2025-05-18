@@ -10,3 +10,4 @@
 @@||www.google-analytics.com^$important
 @@||piwik.vates.fr^$important
 @@||api.telegram.org^$important
+@@||*.discover.com^$important
