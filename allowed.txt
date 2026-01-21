@@ -11,3 +11,8 @@
 @@||piwik.vates.fr^$important
 @@||api.telegram.org^$important
 @@||*.discover.com^$important
+@@||cdn.cookielaw.org^$important
+@@||*^$client=10.0.2.180
+@@||*^$client=10.0.2.213
+@@||*^$client=10.60.0.119
+@@||*^$client=10.0.2.176
