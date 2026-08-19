@@ -13,6 +13,7 @@
 @@||*.apple.com^$important
 @@||*.icloud.com^$important
 @@||fls-na.amazon.com^$important
+@@||vortex-dual.hulu.com^$important
 #@@||*^$client=10.0.2.180
 @@||*^$client=10.0.2.213
 @@||*^$client=10.60.0.119
